@@ -1,4 +1,4 @@
-pytorch/manylinux-rocm:6.1
+pytorch/manylinux-rocm:6.0
 #python:3.9
 #rocm/tensorflow:rocm6.1-py3.10-tf2.15-dev
 #rocm/pytorch:rocm6.1_ubuntu22.04_py3.10_pytorch_2.1.2
